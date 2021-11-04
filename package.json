@@ -1,0 +1,22 @@
+{
+  "name": "blogging-project",
+  "version": "1.0.0",
+  "description": "nothing yet",
+  "main": "app.js",
+  "scripts": {
+    "test": "nothing yet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "not yet"
+  },
+  "author": "Mohammad Adil",
+  "license": "ISC",
+  "dependencies": {
+    "@handlebars/allow-prototype-access": "^1.0.5",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.4",
+    "nodemon": "^2.0.14",
+    "path": "^0.12.7"
+  }
+}
